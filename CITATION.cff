@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite it as below."
+title: "Adversarial Evasion Attacks on ML Network Intrusion Detection"
+authors:
+  - family-names: Trivedi
+    given-names: Rohan
+date-released: 2026-10-19
+license: MIT
+repository-code: "https://github.com/RohanTrivedi09/adversarial-nids-evasion"
